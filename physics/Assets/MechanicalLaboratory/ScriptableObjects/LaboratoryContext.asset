@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23eabe0824a047d380e2798f1e1c560a, type: 3}
+  m_Name: LaboratoryContext
+  m_EditorClassIdentifier: 
+  CurrentLevel: {fileID: 11400000, guid: 63b1704d4fb331d48861eefc339d2c47, type: 2}
+  LaboratorySettings: {fileID: 11400000, guid: 82c748cebe01cea4da4f617992b4988d, type: 2}
